@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mo7ammad3li
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning webapps and web extintions
+- 🌱 I’m currently learning web apps and web extintions
 - 💞️ I’m looking to collaborate on web extinsions
 
 <!---
